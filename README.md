@@ -1,7 +1,8 @@
 # sw-sync-cli
 
-> [!WARNING]  
-> This tool is experimental and for now just a prototype.
+> [!Note]  
+> This repository was moved to https://github.com/shopware/sw-sync-cli
+> and is no longer maintained here.
 
 A CLI tool that communicates with the 
 [Shopware admin API](https://shopware.stoplight.io/docs/admin-api)
